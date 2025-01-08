@@ -1,0 +1,11 @@
+get init
+
+git status
+ --unTracked files
+ --track files
+
+git add .
+git commit
+
+// If not user login
+git config --global user.name "name"
