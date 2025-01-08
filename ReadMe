@@ -5,7 +5,11 @@ git status
  --track files
 
 git add .
-git commit
+git commit -m "first commit"
 
 // If not user login
 git config --global user.name "name"
+
+
+//After commit
+git push
